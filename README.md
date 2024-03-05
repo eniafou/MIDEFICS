@@ -1,9 +1,7 @@
 # MIDEFICS
 
 ## About the project 
-<p align="center">
-    <img src="https://cdn-uploads.huggingface.co/production/uploads/65dcee5f5f27009cd983f6e4/pScaQcUAX-zEaGniJZQbl.png" alt="Midefics-Obelics logo" width="200" height="100">
-</p>
+![MIDEFICS](MIDEFICS.jpeg)
 
 MIDEFICS (**M**edical **I**mage-aware **D**ecoder **E**nhanced à la **F**lamingo with **I**nterleaved **C**ross-attention**S**) is a fine-tuned iteration of the model IDEFICS-9b-instruct, which, in turn, is a refined version of the IDEFICS-9b model, tailored for instruction following.
 
@@ -37,13 +35,12 @@ MIDEFICS emerges from additional training of IDEFICS on Supervised Fine-Tuning a
 The dataset is built from [MURA](https://arxiv.org/abs/1712.06957), [ISIC](https://www.isic-archive.com/) and [ROCO](https://www.semanticscholar.org/paper/Radiology-Objects-in-COntext-(ROCO)%3A-A-Multimodal-Pelka-Koitka/a564fabf130ff6e2742cfba90c7a4018937d764d) which are free open-access online datasets of medical images.
 The conversations were generated using GPT-3.5-turbo based on metadata associated to each image.
 
-The graph bellow gives an overview of data generation process:
+The graph bellow gives an overview of the data generation process:
 ![Logo](data_prep.png)
 
 
 ## Usage
 You can explore the notebooks for data generration, finetuning and evaluation in this github repo.
-You can check the finetuned and quantized model [here](https://huggingface.co/WinterSchool/Midefics) on huggingface.
-You can also take a look at the different [datasets](https://huggingface.co/WinterSchool) that we created.
+You can check the finetuned and quantized model [here](https://huggingface.co/WinterSchool/Midefics) on huggingface and you can also take a look at the different [datasets](https://huggingface.co/WinterSchool) that we created.
 
 
