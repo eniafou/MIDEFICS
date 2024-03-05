@@ -43,6 +43,9 @@ The graph bellow gives an overview of the data generation process:
 ### Model calling
 ![Logo](model_call.png)
 
+### Evaluation
+![evaluation](evaluation.png)
+
 ### Before and after finetuning comparision
 ![results](results.png)
 
