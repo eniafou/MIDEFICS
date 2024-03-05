@@ -40,7 +40,11 @@ The conversations were generated using GPT-3.5-turbo based on metadata associate
 
 The graph bellow gives an overview of the data generation process:
 ![Logo](data_prep.png)
+### Model calling
+![Logo](model_call.png)
 
+### Before and after finetuning comparision
+![results](results.png)
 
 ## Usage
 You can explore the notebooks for data generration, finetuning and evaluation in this github repo.
