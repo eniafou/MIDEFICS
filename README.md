@@ -2,7 +2,7 @@
 
 ## About the project 
 <p align="center">
-  <img src="MIDEFICS.jpeg" alt="Logo" width="200" height="200" style="display: block; margin: auto;">
+  <img src="MIDEFICS.png" alt="Logo" width="200" height="200" style="display: block; margin: auto;">
 </p>
 
 
