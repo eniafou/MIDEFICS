@@ -1,7 +1,9 @@
 # MIDEFICS
 
 ## About the project 
-<img src="MIDEFICS.jpeg" alt="Logo" width="200" height="200">
+<p align="center">
+  <img src="MIDEFICS.jpeg" alt="Logo" width="200" height="200" style="display: block; margin: auto;">
+</p>
 
 
 MIDEFICS (**M**edical **I**mage-aware **D**ecoder **E**nhanced à la **F**lamingo with **I**nterleaved **C**ross-attention**S**) is a fine-tuned iteration of the model IDEFICS-9b-instruct, which, in turn, is a refined version of the IDEFICS-9b model, tailored for instruction following.
